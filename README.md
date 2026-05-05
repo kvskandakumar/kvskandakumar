@@ -1,155 +1,113 @@
-# K.V. Skanda Kumar
+<h1 align="center">Hi 👋, I'm K.V. Skanda Kumar</h1>
+<h3 align="center">Tech Lead & Full-Stack Developer | EdTech Platforms | Offline-First Systems | Data Engineering</h3>
 
-## Tech Lead | Full Stack Developer | EdTech Platforms | Data Engineering
-
-Bangalore, India  
-[Email](mailto:kvskandakumar@gmail.com) | [LinkedIn](https://linkedin.com/in/skanda-kumar-45876a1a0) | [GitHub](https://github.com/kvskandakumar) | [Portfolio](https://kvskandakumar.github.io/portfolio/)
-
----
-
-## Profile
-
-I am a Tech Lead with 6+ years of experience building scalable EdTech products across web, mobile, game-based learning, offline-first systems, and analytics platforms.
-
-My work spans full-stack development, cross-platform architecture, data engineering, performance optimization, and team leadership. I have progressed from Junior Developer to Lead Developer by owning high-impact systems, mentoring engineers, and partnering closely with product, business, and leadership teams.
-
-I specialize in building applications that work reliably in real-world learning environments, especially low-end Android devices and low-connectivity regions.
-
----
-
-## Career Highlights
-
-- Led architecture and delivery of **15+ applications** across React, Capacitor, Android, PWAs, Angular, Flutter, and educational game platforms.
-- Built offline-first learning systems enabling **100% functionality in low-connectivity environments**.
-- Integrated RESPECT platform standards across **3+ applications** for content delivery, tracking, SSO, and interoperability.
-- Reduced redevelopment effort by **40%+** through React + Capacitor container architecture for web and game integrations.
-- Built BigQuery ETL pipelines processing **millions of GA4 events daily**.
-- Reduced BigQuery costs by **70-90%** using query optimization, partitioning, and clustering.
-- Built **20+ Looker Studio dashboards** for product, operations, and business decision-making.
-- Promoted **3 times in 6 years**, growing from Junior Developer to Senior Developer to Lead Developer.
-- Represented the organization internationally at **mEducation Alliance 2025 in Kenya** and client product presentations in Dubai.
+<p align="center">
+  <a href="https://linkedin.com/in/skanda-kumar-45876a1a0" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kvskandakumar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/kvskandakumar" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://kvskandakumar.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%230A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
-## Core Strengths
+### 👨‍💻 About Me
 
-| Area | Strengths |
-| --- | --- |
-| Frontend & Mobile | React, Angular, Capacitor, Flutter, PWAs, Android wrappers |
-| Backend & Data | Firebase, Supabase, MongoDB, AWS, REST APIs, BigQuery, SQL |
-| Architecture | Offline-first systems, container architecture, deep linking, SSO, scalable APIs |
-| Analytics | GA4 pipelines, event tracking, KPI modeling, Looker Studio dashboards |
-| Games & Learning | Cocos Creator, Phaser, TypeScript, 2D educational games |
-| Leadership | Mentoring, architecture decisions, stakeholder collaboration, technical delivery |
+I am a hands-on **Tech Lead and Full-Stack Developer** with 6+ years of experience building scalable EdTech platforms across web, mobile, games, offline-first systems, and analytics.
+
+I specialize in architecting real-world learning products that work reliably on low-end Android devices and in low-connectivity environments. My work combines **React, Capacitor, Flutter, Firebase, Supabase, BigQuery, GA4, Cocos Creator, Phaser, and REST APIs** to deliver products used across learning, content delivery, tracking, and analytics workflows.
+
+- 🔭 **Currently Building:** Offline-first EdTech platforms, cross-app integrations, analytics pipelines, and AI-powered content generation workflows.
+- 🌱 **Deep Dive Focus:** Offline-first architecture, Supabase-backed local asset systems, BigQuery optimization, xAPI/OPDS integrations, and cross-platform app communication.
+- 🚀 **Milestone:** Led architecture and delivery of **15+ applications** across React, Capacitor, Android, PWAs, Angular, Flutter, and game-based learning platforms.
+- 📊 **Data Impact:** Built BigQuery ETL pipelines processing **millions of GA4 events daily** and reduced query costs by **70-90%**.
+- 🏆 **Growth:** Promoted **3 times in 6 years**, progressing from Junior Developer to Senior Developer to Lead Developer.
+- 🌍 **Global Exposure:** Represented the organization at **mEducation Alliance 2025 in Kenya** and client product presentations in Dubai.
 
 ---
 
-## Professional Experience
+### 🛠️ Tech Stack & Tools
 
-### Tech Lead - Full Stack Developer
+**Frontend & Mobile Applications**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Sutara Learning Foundation**  
-**March 2020 - Present**
+**Backend, Database & APIs**  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Sutara Learning Foundation builds technology-enabled learning products for children, teachers, and education partners. As Tech Lead, I own platform architecture, product delivery, analytics systems, and cross-functional technical execution.
+**Data Engineering & Analytics**  
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-5E35B1?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-#### Platform Architecture & Product Delivery
+**Games, AI & Integrations**  
+![Cocos](https://img.shields.io/badge/Cocos%20Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser-663399?style=for-the-badge&logo=javascript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![xAPI](https://img.shields.io/badge/xAPI-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 
-- Led development of scalable multi-platform systems across React, Capacitor, Android, PWAs, Angular, and Flutter.
-- Designed a container-based architecture using React and Capacitor to integrate web applications and Cocos-based games inside Android learning apps.
-- Built offline-first application flows using Supabase backend and local asset serving for reliable usage without internet dependency.
-- Improved Android app performance and compatibility for web-based learning experiences on low-end devices.
-- Designed deep linking and cross-app communication between Android and React via Capacitor.
-- Enabled SSO and parameterized content launch across integrated learning applications.
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-#### Data Engineering & Analytics
+---
 
-- Defined event tracking standards and data models across learning applications.
-- Engineered BigQuery ETL pipelines for large-scale GA4 event processing.
-- Built analytics models for KPI tracking, product usage, learning engagement, and operational reporting.
-- Developed 20+ Looker Studio dashboards used by product, operations, and business teams.
-- Optimized BigQuery workloads, reducing cost by 70-90% and improving performance by 2-3x.
+### 🏆 Featured Architecture & Projects
 
-#### Leadership & Collaboration
+* **Chimple Kids Learning Platform:** Built an offline-first, container-based EdTech system integrating React web apps, Capacitor Android wrappers, and Cocos learning games for low-end Android devices and low-connectivity environments.
+
+* **RESPECT Platform Integration:** Led integration of standardized content delivery, SSO, deep linking, OPDS/xAPI tracking, and cross-platform interoperability across 3+ learning applications.
+
+* **AI Content Generation - lanAI:** Played a major role in AI-powered content generation workflows for the Chimple Kids app using OpenAI and Gemini APIs, enabling scalable and automated learning content creation.
+
+* **BigQuery Analytics Pipeline:** Designed scalable GA4 ETL pipelines using BigQuery and SQL, processing millions of events daily while reducing analytics costs by 80-90% and improving query performance by 2-3x.
+
+* **2D Learning Games System:** Developed and optimized cross-platform educational games with modular architecture for reuse and strong performance across devices using Cocos Creator, Phaser, and TypeScript.
+
+* **Course Creator & Teacher App:** Built Flutter-based product workflows for course creation, teacher usage, and learning management across EdTech products.
+
+---
+
+### 💼 Leadership & Impact
 
 - Led cross-functional collaboration across frontend, backend, analytics, product, and operations teams.
-- Mentored developers and supported code quality, technical decision-making, and delivery planning.
-- Partnered with CEOs, CTOs, and global stakeholders on product demonstrations, technical strategy, and architecture decisions.
-- Contributed to engineering practices during the organization's growth from around 10 to 100+ employees.
+- Mentored developers and drove technical decision-making, architecture standards, and code quality.
+- Partnered with CEOs, CTOs, and global stakeholders on product strategy, technical demos, and architecture planning.
+- Contributed to engineering and product team growth from around **10 to 100+ employees**.
+- Built **20+ Looker Studio dashboards** for product, operations, and business intelligence.
+- Supported thousands of learners in low-connectivity environments through offline-first architecture.
 
 ---
 
-## Featured Projects
-
-### Chimple Kids Learning Platform
-
-Built an offline-first, container-based EdTech platform integrating web applications, Android wrappers, and game-based learning experiences for low-end devices.
-
-**Impact:** Enabled seamless learning in low-connectivity environments and improved reuse across multiple learning modules.  
-**Tech:** React, Capacitor, Android, Cocos Creator
-
-### RESPECT Platform Integration
-
-Led integration of standardized content delivery, SSO, tracking, OPDS/xAPI flows, and deep linking across multiple applications.
-
-**Impact:** Enabled consistent content delivery, learner tracking, and cross-platform interoperability.  
-**Tech:** React, Android, Capacitor, xAPI, OPDS, REST APIs
-
-### AI Content Generation - lanAI
-
-Played a major role in AI-powered content generation workflows for the Chimple Kids app using OpenAI and Gemini APIs.
-
-**Impact:** Supported scalable and automated learning content creation.  
-**Tech:** OpenAI APIs, Gemini APIs, automation workflows
-
-### BigQuery Analytics Pipeline
-
-Designed and optimized data pipelines for GA4 analytics at scale.
-
-**Impact:** Processed millions of events daily, reduced analytics cost by 80-90%, and improved query performance by 2-3x.  
-**Tech:** BigQuery, SQL, GA4, Looker Studio
-
-### 2D Learning Games System
-
-Developed reusable and optimized educational games for children across platforms.
-
-**Impact:** Improved engagement through interactive learning and reusable game architecture.  
-**Tech:** Cocos Creator, Phaser, TypeScript
-
----
-
-## Additional Projects
-
-- **Teacher App:** Flutter mobile app for teacher workflows.
-- **Course Creator:** Flutter-based course and content creation platform.
-- **Web Class:** React-based learning platform using AWS and MongoDB.
-- **Organization Website:** Static website built with HTML and CSS.
-- **Bahama App:** Educational game application built with Cocos Creator.
-- **Phaser Games:** TypeScript-based game modules for learning experiences.
-
----
-
-## Technical Skills
-
-**Languages & Frameworks:** React, Angular, Capacitor, Flutter, Dart, Phaser, Cocos Creator, TypeScript  
-**Backend & Data:** Firebase, Supabase, BigQuery, SQL, GA4, AWS, MongoDB, REST APIs, xAPI, Data Modeling  
-**Architecture:** Offline-First Systems, PWAs, Container Architecture, ETL Pipelines, Cost Optimization, CI/CD  
-**Tools:** Docker, Git, CI/CD Pipelines, Google Looker Studio
-
----
-
-## Education
+### 🎓 Education
 
 **B.Tech in Electronics and Communication Engineering**  
 Intell Engineering College
 
 ---
 
-## What I Bring To A Team
+### 📊 Languages
 
-- Ability to own complex products from architecture to production.
-- Strong understanding of both engineering execution and product outcomes.
-- Experience building for constrained environments, including low-end devices and low-connectivity users.
-- Practical data engineering skills for product analytics and business intelligence.
-- Leadership experience across mentoring, stakeholder communication, technical strategy, and delivery.
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvskandakumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
